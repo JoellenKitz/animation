@@ -8,6 +8,8 @@ This is an R package to create and export animations to a variety of formats
 (HTML/JS, GIF, Video, PDF), and it also serves as a gallery of statistical
 animations.
 
+To discover more creativity click <a href="https://write-right.net/">here</a>
+
 ## Installation
 
 To install the stable version on CRAN:
